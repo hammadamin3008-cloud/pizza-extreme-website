@@ -1,0 +1,26 @@
+/* .container{
+border: 5px solid black;
+}
+
+.row{
+  border: 3px solid blue;  
+}
+
+.col-3,.col-3,.col-3,.col-3{
+    border: 3px solid chartreuse;
+  
+} */
+
+#cimg{
+  height: 80px;
+  width: 80px;
+}
+
+#dimg{
+height: 500px;
+}
+
+#jk{
+
+height: 250px;
+}
